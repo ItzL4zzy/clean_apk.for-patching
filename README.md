@@ -16,5 +16,6 @@ A tool that lets you patch Android apps with custom features.
 ## Links
 
 - [ReVanced Manager](https://revanced.app/download)
+- [ReVanced CLI](https://github.com/revanced/revanced-cli)
 - [APKMirror](https://www.apkmirror.com/)
 - [4PDA](https://4pda.to)
