@@ -7,7 +7,7 @@ A tool that lets you patch Android apps with custom features.
 
 ## APKs
 
-- [YouTube](#)
+- [YouTube](https://github.com/ItzL4zzy/clean_apk.for-patching/blob/main/apks/Youtube.md)
 - [YouTube Music](#)
 - [Reddit](#)
 - [Instagram](#)
