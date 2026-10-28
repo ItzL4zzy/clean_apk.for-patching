@@ -1,3 +1,5 @@
+# 28.10.2026
+
 ## From APKmirror
 Version: YouTube 20.14.43 (for patch)
 
@@ -10,7 +12,7 @@ Version: YouTube 20.14.43 (for patch)
 - v 21.42.243 - [dowload](https://4pda.to/forum/dl/post/36396858/YouTube+21.43.521+%28universal%29.zip) (zip)
 - v 21.41.531 - [download](https://4pda.to/forum/dl/post/36381351/YouTube+21.41.531.zip) (zip)
 - v 21.41.529 - [download](https://4pda.to/forum/dl/post/36345567/YouTube+21.41.529.zip) (zip)
-- v 21.41.526 - [dowloadl](https://4pda.to/forum/dl/post/36345561/YouTube+21.41.526.zip) (zip)
+- v 21.41.526 - [dowload](https://4pda.to/forum/dl/post/36345561/YouTube+21.41.526.zip) (zip)
 
 - v 21.23.492 (9.0+) - [download](https://4pda.to/forum/dl/post/35640379/YouTube+21.23.492.apk) (apk)
 - v 20.26.46 (8.0+) - [download](https://4pda.to/forum/dl/post/33572622/YouTube+20.26.46.apk) (apk)
@@ -29,4 +31,4 @@ Version: YouTube 20.14.43 (for patch)
 2. Google is fighting those who watch YouTube without ads. If the video doesn’t load to the end, the problem is 100% with the installed mods or ad blockers. Remove them or contact their support channels for assistance. In this thread, discussing mod issues is off‑topic; such messages will be deleted, and administrative measures will be applied to their authors.
 3. If videos take a long time to load, your provider is probably slowing down YouTube.
 
-### 28.10.2026
+
